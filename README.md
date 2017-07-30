@@ -13,3 +13,8 @@ Machine learning toolkit for natural language processing. Written for Lisbon Mac
 **Installation of Modules and Tools**
 
 * Read instructions in the Day 0 chapter of the LXMLS guide.
+
+**Laboratory Solutions**
+
+lxmls-toolkit-2017/lxmls/laboratories/
+
